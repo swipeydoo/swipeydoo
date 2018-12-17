@@ -2,16 +2,16 @@
   "main": "node_modules/expo/AppEntry.js",
   "private": true,
   "dependencies": {
-    "expo": "^25.0.0",
+    "expo": "^31.0.6",
     "jsx-control-statements": "^3.2.8",
-    "react": "16.2.0",
+    "react": "16.6.3",
     "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz",
     "simple-graphql-client": "^0.1.0"
   },
   "devDependencies": {
-    "babel-eslint": "^8.0.3",
-    "eslint": "^4.13.1",
-    "eslint-config-airbnb": "^16.1.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.10.0",
+    "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-jsx-control-statements": "^2.2.0",
